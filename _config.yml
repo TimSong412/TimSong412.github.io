@@ -21,7 +21,7 @@ repository               : "github.com/TimSong412"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "TimSong.jpg"
   name             : "Tim (Yunzhou) Song"
   pronouns         : "He/Him" 
   bio              : "I'm glad to be called Tim!"
