@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tim(Yunzhou) Song"
+title                    : "Tim's Homepage"
 title_separator          : "-"
 name                     : &name "Tim(Yunzhou) Song"
 description              : &description "I am a first-year Master's student at the University of Pennsylvania majoring in Robotics. I'm conducting research focusing on 3D vision, geometry, and graphics supervised by Prof. Kostas Kostas Daniilidis, Prof. Lingjie Liu and Jiahui Lei."
@@ -22,17 +22,17 @@ repository               : "github.com/TimSong412"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Welcome to my Site!"
+  name             : "Tim (Yunzhou) Song"
   pronouns         : "He/Him" 
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm glad to be called Tim!"
   location         : "Philadelphia, U.S."
   employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "timsong[aT]seas[dOt]upenn[dOt]edu" 
+  email            : "timsong[aT；]seas[d0t；]upenn[d0t；]edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
