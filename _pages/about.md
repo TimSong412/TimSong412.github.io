@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
+
 I am a Master's student majoring in robotics at the GRASP Lab, University of Pennsylvania. I am conducting research under the supervision of Prof. Kostas Daniilidis, Prof. Lingjie Liu, and Jiahui Lei. Before that, I graduated from Zhejiang University and participated in several research projects of Prof. Xiaowei Zhou.
 
 Research
