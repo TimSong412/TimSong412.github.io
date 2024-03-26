@@ -20,6 +20,16 @@ Linghao Chen, **Yunzhou Song**, Hujun Bao, Xiaowei Zhou
 
 **ICRA 2023** [Code](https://github.com/zju3dv/poking_perception)  [Paper](https://arxiv.org/abs/2302.13375)
 
+<iframe 
+src="https://www.youtube.com/watch?v=WCNLLnzeBN0" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 
 Teaching
