@@ -18,6 +18,7 @@ Research
 Track Everything Everywhere Fast and Robustly
 ------
 **Yunzhou Song\***, Jiahui Lei\*, Ziyun Wang, Lingjie Liu, Kostas Daniilidis
+
 [Project Page](https://timsong412.github.io/FastOmniTrack/) [Paper]()
 <iframe 
 src="https://www.youtube.com/embed/j4jV9EjMQMw?showinfo=0&controls=1&modestbranding=0&autohide=1&theme=light" 
@@ -30,6 +31,9 @@ allowfullscreen="true"
 height=600 
 width=800> 
 </iframe>
+
+<br>
+<br>
 
 Perceiving Unseen 3D Objects by Poking the Objects
 ------
@@ -48,6 +52,10 @@ allowfullscreen="true"
 height=300 
 width=400> 
 </iframe>
+
+
+<br>
+<br>
 
 
 Teaching
